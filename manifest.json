@@ -1,0 +1,14 @@
+{
+  "name": "Pomodoro",
+  "version": "1.0.0",
+  "description": "Simple pomodoro and progress bar for chrome extension",
+  "manifest_version": 3,
+  "author": "sharonlhs",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Pomodoro",
+    "default_icon": {
+      "128": "icon.png"
+    }
+  }
+}
